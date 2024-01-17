@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+    <listeners>
+        <listener class-name="utilities.reporting"/>
+    </listeners>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/Anuj/IdeaProjects/Rest_Assured_frm/src/test/java/test/DDtest.java">
+        <classes>
+            <class name="test.UserTests">
+
+            </class>
+        </classes>
+    </test>
+</suite>
