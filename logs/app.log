@@ -5,3 +5,5 @@
 2024-01-17 02:28:08,531 INFO t.UserTests [main] updating info user
 2024-01-17 02:28:11,404 INFO t.UserTests [main] Updated
 2024-01-17 02:28:12,858 INFO t.UserTests [main] deleted
+2024-01-17 22:38:55,820 INFO t.UserTests [main] User Creating
+2024-01-17 22:39:08,954 INFO t.UserTests [main] User is created
