@@ -47,6 +47,8 @@ public class UserTests {
         response.then().log().all();
         Assert.assertEquals(response.getStatusCode() , 200);
         logger.info("User is created");
+        System.out.println();
+        System.out.println();
 
     }
     @Test(priority = 2)
