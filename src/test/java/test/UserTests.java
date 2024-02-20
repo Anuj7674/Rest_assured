@@ -34,8 +34,7 @@ public class UserTests {
         userpayload.setPhone(faker.phoneNumber().cellPhone());
 
 
-
-
+        System.out.println();
         logger= LogManager.getLogger(this.getClass());
     }
 
